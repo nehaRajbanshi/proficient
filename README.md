@@ -1,1 +1,1 @@
-# proficient
+Proficient Tech
